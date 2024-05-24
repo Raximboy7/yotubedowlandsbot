@@ -1,7 +1,7 @@
 # YOTUBE TELEGRAM BOT
 
 <p align="center">
-    <img height="140" src="https://github.com/Raximboy7/yotubedowlandsbot/blob/main/bot.png?raw=true">
+    <img height="250" src="https://github.com/Raximboy7/yotubedowlandsbot/blob/main/bot.png?raw=true">
 </p>
 
 
